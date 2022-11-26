@@ -32,19 +32,19 @@ public class main {
                         System.out.println("-----------------------------");
                         vehiculo2.car2(vehiculo2);
                     }
-                    if(op_registro == 3){
+                    if(op_registro >= 3){
                         System.out.println("-----------------------------");
                         System.out.println("| Registro del 3er vehiculo |");
                         System.out.println("-----------------------------");
                         vehiculo3.car3(vehiculo3);
                     }
-                    if(op_registro == 4){
+                    if(op_registro >= 4){
                         System.out.println("-----------------------------");
                         System.out.println("| Registro del 4to vehiculo |");
                         System.out.println("-----------------------------");
                         vehiculo4.car4(vehiculo4);
                     }
-                    if(op_registro == 5){
+                    if(op_registro >= 5){
                         System.out.println("-----------------------------");
                         System.out.println("| Registro del 5to vehiculo |");
                         System.out.println("-----------------------------");
